@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE student at Bennett University, specializing in Cloud Computing. With experience in more than five data-driven<br>projects, I focus on analyzing complex datasets and building intelligent solutions. I’m passionate about solving real world problems and eager to explore new technologies that push the boundaries of innovation..
+CSE student at Bennett University, specializing in Cloud Computing. With experience in more than five data-driven<br>projects, I focus on analyzing complex datasets and building intelligent solutions. I’m passionate about solving real-world problems and eager to explore new technologies that push the boundaries of innovation..
 
 
 ## 🌐 Socials:
